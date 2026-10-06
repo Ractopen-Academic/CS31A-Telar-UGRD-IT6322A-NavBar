@@ -2,6 +2,7 @@
 <h1>Royette Andrei C. Telar</h1><br>
 <h2>Preview</h2>
 
-<video src="demo.mp4" controls width="50%" autoplay loop></video>
+<img src="demo.gif" width="300" alt="Preview" /><br><br>
+<a href="demo.mp4">Clear demo.mp4</a>
 
 </div>
